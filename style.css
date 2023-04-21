@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(40, 37, 37);
+    font-family: Russo One;
+}
+
+.card {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: white;
+    
+  }
+
+  .navbar {
+    top: 0;
+    color: white;
+    position: sticky;
+    z-index: 10;
+    background-color: rgb(23, 23, 23);
+    border-bottom: 1px solid black;
+  }
+
+  .row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 8px;
+    background: black;
+    color: white;
+  }
+
+  .welcome{
+    text-align: center;
+    color: white;
+    
+    
+  }
+
+  .container{
+    background-color: white;
+    color: white;
+    border:1px solid black; border-radius: 5px; padding-top: 5px; padding-bottom: 5px; margin-top: 5px; margin-bottom: 5px;
+  }
